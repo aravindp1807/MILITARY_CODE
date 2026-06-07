@@ -7,7 +7,7 @@ An interactive computer vision pipeline combining **YOLO (You Only Look Once)** 
 ## Overview
 
 This project implements a two-stage vision pipeline:
-1. **YOLOv8** detects objects and generates bounding boxes
+1. **YOLOv11** detects objects and generates bounding boxes
 2. **SAM** uses those boxes as prompts to produce precise segmentation masks
 
 The notebook provides a complete GUI within Google Colab for uploading custom models, processing media files, visualizing results, and downloading annotated outputs — all without writing additional code.
